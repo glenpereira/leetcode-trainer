@@ -5,6 +5,8 @@ subscription** (no API key) as the tutor/interviewer. It follows Striver's SDE
 Sheet, pulls problem data from the alfa-leetcode-api, and helps you _understand_
 problems instead of memorizing them.
 
+> ⚠ I 100% vibe-coded this. I have no idea if it breaks any ToS. Use at your own risk.
+
 ## What it does
 
 - **Solve view** — Striver SDE Sheet browser, Monaco editor, a timer, **escalating
